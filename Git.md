@@ -1,4 +1,4 @@
-# GitHub Reference
+# Git Reference
 ## by Shubhrendu Tripathi
 
 <br><br>
